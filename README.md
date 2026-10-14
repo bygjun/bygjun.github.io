@@ -5,3 +5,7 @@
 실제 공식 홈페이지와 가이드 원본은 [bygjun/albacheck-official](https://github.com/bygjun/albacheck-official)이며 [공식 주소](https://bygjun.github.io/albacheck-official/)는 유지합니다. 루트 페이지는 자동 리다이렉트 없이 공식 사이트 및 설치 링크를 제공합니다. canonical은 공식 주소를 사용합니다.
 
 GitHub Pages main 브랜치 / 루트에서 게시됩니다. 소유권 인증 메타 태그를 보존하세요.
+
+## Google Search Console
+
+Google에도 `https://bygjun.github.io/` URL 접두사 속성을 HTML 태그로 인증했습니다. `sitemap.xml`은 공식 홈페이지와 가이드·개인정보 문서의 5개 주소를 포함하며 robots.txt의 Sitemap 줄과 같은 주소를 사용합니다. 실제 본문 사이트 주소와 canonical은 기존 `/albacheck-official/` 경로를 유지합니다. Google 및 NAVER 인증 태그를 보존하세요. 진단용 중복 사이트맵은 운영 대상에서 제외합니다.
